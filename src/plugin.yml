@@ -1,0 +1,11 @@
+name: "AutoMessage"
+version: "1.0"
+author: SemperAnte
+
+main: ru.SemperAnte.AutoMessage.AutoMessage
+depend: [SemperAnteAPI]
+
+commands:
+   AutoMessage:
+    description: Main plugin command
+    aliases: [automessage, am, amessage, autom]

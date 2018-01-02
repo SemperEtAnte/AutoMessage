@@ -1,0 +1,10 @@
+lists:
+   test_list:
+      interval: 30
+      enabled: true
+      messages:
+         - "&cТест 1"
+         - "&eТест 2"
+         - "&aТест 3"
+      commands:
+         - "/pex reload"
